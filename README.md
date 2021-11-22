@@ -28,3 +28,7 @@
     3. **Reportar resultados**:
 
         ![Reportar resultados](docs/08_reporte_level_risk.png)
+
+        Adicionalmente, se puede generar un reporte de vulnerabilidades de OWASP ZAP en el navegador.
+
+        ![Reporte navegador](docs/09_reporte_solucion.png)
